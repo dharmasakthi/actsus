@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/actsus/static/css/main.665bbe88.css",
+    "main.js": "/actsus/static/js/main.30f88f16.js",
+    "static/js/651.298252e1.chunk.js": "/actsus/static/js/651.298252e1.chunk.js",
+    "static/media/home.mov": "/actsus/static/media/home.d7c5fc127300502aead9.mov",
+    "static/media/trust.jpeg": "/actsus/static/media/trust.3f0a63cbe8455e92237c.jpeg",
+    "static/media/sustain.webp": "/actsus/static/media/sustain.53729c127433f76de650.webp",
+    "static/media/ship.jpeg": "/actsus/static/media/ship.8cf2cc9ba1f04e0d99b7.jpeg",
+    "static/media/Logistics.webp": "/actsus/static/media/Logistics.16553215fa9905881482.webp",
+    "static/media/deep.jpeg": "/actsus/static/media/deep.3d9030322ea204b095ad.jpeg",
+    "static/media/manage.webp": "/actsus/static/media/manage.90d931fcaef90d94e8e4.webp",
+    "static/media/contact.jpeg": "/actsus/static/media/contact.be9e313f92d218528a09.jpeg",
+    "static/media/sale.webp": "/actsus/static/media/sale.cef7d9d47a0271896f60.webp",
+    "static/media/sunset.webp": "/actsus/static/media/sunset.1d05e6d162e2266a32c3.webp",
+    "static/media/commitment.svg": "/actsus/static/media/commitment.2d8ea8b54752310e2f47d9529cbe008a.svg",
+    "static/media/knowledge.svg": "/actsus/static/media/knowledge.e9f57e0f011e2c93bd6cfb36279286e0.svg",
+    "static/media/accountability.svg": "/actsus/static/media/accountability.71788d18e6c6bdb2be02c53c530178c1.svg",
+    "static/media/passion.svg": "/actsus/static/media/passion.4b1490036004657f9e77e70021be1fb5.svg",
+    "static/media/integrity.svg": "/actsus/static/media/integrity.26b5d4dff47349e4351f2001e260785f.svg",
+    "index.html": "/actsus/index.html",
+    "main.665bbe88.css.map": "/actsus/static/css/main.665bbe88.css.map",
+    "main.30f88f16.js.map": "/actsus/static/js/main.30f88f16.js.map",
+    "651.298252e1.chunk.js.map": "/actsus/static/js/651.298252e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.665bbe88.css",
+    "static/js/main.30f88f16.js"
+  ]
+}
